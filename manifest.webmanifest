@@ -1,0 +1,11 @@
+{
+  "name": "28-Day Home Strength Challenge",
+  "short_name": "Home Strength 28",
+  "description": "Personal 28-day home workout and progress tracker.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f6f0",
+  "theme_color": "#173d32",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
